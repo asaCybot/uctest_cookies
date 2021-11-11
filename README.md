@@ -1,1 +1,1 @@
-# https://asacybot.github.io/uctest_cookies/
+# https://asacybot.github.io/uctest_cookies/index.html
